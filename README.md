@@ -1,3 +1,13 @@
+## Français
+
+Boîte à outils IA pour traiter des images directement dans le navigateur, avec un mode hors ligne et une approche axée sur la confidentialité. Exemple : charger une image et essayer les opérations disponibles sans l’envoyer à un serveur distant, selon les fonctions activées.
+
+## English
+
+An AI image toolkit that runs in the browser, with an offline-first and privacy-focused approach. Example: load an image and try available operations without sending it to a remote server, subject to enabled features.
+
+---
+
 <h1 align="center">✨ Removerized</h1>
 
 <p align="center">
